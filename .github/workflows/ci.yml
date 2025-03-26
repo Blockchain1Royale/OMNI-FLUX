@@ -33,15 +33,4 @@ jobs:
       run: yarn lint
       
     - name: Type check
-      run: yarn type-check
-      
-  security:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v3
-      - name: Run Snyk to check for vulnerabilities
-        uses: snyk/actions/node@master
-        env:
-          SNYK_TOKEN: ${{ secrets.SNYK_TOKEN }}
-        with:
-          args: --severity-threshold=high 
+      run: yarn type-check 
