@@ -6,9 +6,58 @@
 [![Jupiter](https://img.shields.io/badge/Jupiter-DEX-blue)](https://jup.ag)
 [![Trading](https://img.shields.io/badge/Trading-Active-success)](https://omniflux.io/trading)
 
-A next-generation DeFi platform on Solana, offering automated trading, analytics, and AI-powered insights.
+OMNI FLUX is a next-generation blockchain platform that combines advanced trading capabilities with innovative DeFi solutions.
 
 🔗 [Launch App](https://app.omniflux.io) | 📚 [Documentation](https://docs.omniflux.io) | 🤝 [Community](https://discord.gg/omniflux)
+
+## 🌟 Features
+
+- Advanced Trading Platform
+- Cross-chain Integration
+- Innovative DeFi Solutions
+- AI-powered Market Analysis
+- Secure Smart Contract Infrastructure
+
+## 📚 Documentation
+
+Our documentation is organized into several sections:
+
+- [Roadmap](docs/ROADMAP.md) - Project development timeline and milestones
+- [Technical Documentation](docs/technical/) - Technical specifications and architecture
+- [API Documentation](docs/api/) - API references and integration guides
+- [User Guides](docs/guides/) - Comprehensive guides for users
+
+## 🚀 Getting Started
+
+```bash
+# Clone the repository
+git clone https://github.com/Blockchain1Royale/OMNI-FLUX.git
+
+# Install dependencies
+npm install
+
+# Run development server
+npm run dev
+```
+
+## 🤝 Contributing
+
+We welcome contributions from the community! Please read our [Contributing Guidelines](docs/CONTRIBUTING.md) for details on how to submit pull requests, report issues, and contribute to the project.
+
+## 📜 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## 🔗 Links
+
+- [Official Website](https://omniflux.io)
+- [Documentation](https://docs.omniflux.io)
+- [Twitter](https://twitter.com/omniflux)
+- [Telegram](https://t.me/omniflux)
+
+## 📞 Contact
+
+For any inquiries, please reach out to us at contact@omniflux.io
 
 ## Quick Links 🚀
 
@@ -133,29 +182,6 @@ omni-flux/
 │   └── Dockerfile
 └── .github/
     └── workflows/
-```
-
-## 🚀 Getting Started
-
-1. Clone the repository:
-```bash
-git clone https://github.com/Blockchain1Royale/OMNI-FLUX.git
-cd OMNI-FLUX
-```
-
-2. Install dependencies:
-```bash
-yarn install
-```
-
-3. Set up environment variables:
-```bash
-cp .env.example .env.local
-```
-
-4. Start development servers:
-```bash
-yarn dev
 ```
 
 ## 🔧 Development
