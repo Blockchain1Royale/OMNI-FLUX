@@ -1,0 +1,9 @@
+*.sol linguist-language=Solidity
+*.js linguist-language=JavaScript
+*.ts linguist-language=TypeScript
+*.tsx linguist-language=TypeScript
+*.json linguist-language=JSON
+*.md linguist-documentation
+docs/* linguist-documentation
+*.css linguist-language=CSS
+*.scss linguist-language=SCSS 
